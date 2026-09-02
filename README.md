@@ -32,13 +32,12 @@ Results
 
 k = 4 was selected. The resulting segments:
 
-| Segment | % of customers | % of revenue|	Avg recency (days) | Avg frequency| Avg monetary|
-|----------|----------|----------||----------|----------|----------|----------|----------|----------|
-| Champions     | 20.3%     | 73.9%           | 28 |                 |19.3|     |£10,731  |
-| At Risk       | 24.8%     | 16.4%           | 230|                 | 5.1| 	  | £1,948  |
-| New/Promising | 21.3%     | 6.2%            | 28 |                 | 3.1| 	   | £858    |
-| Lost/One-time | 33.6%     | 3.6%            | 395|                 | 1.4| 	   |£317    |
-
+|     Segment     | % of customers | % of revenue | Avg recency (days) | Avg frequency | Avg monetary |
+|:---------------:|:--------------:|:------------:|:------------------:|:-------------:|:------------:|
+| Champions       | 20.3%          | 73.9%        | 28                 | 19.3          | £10,731      |
+| At Risk         | 24.8%          | 16.4%        | 230                | 5.1           | £1,948       |
+| New / Promising | 21.3%          | 6.2%         | 28                 | 3.1           | £858         |
+| Lost / One-time | 33.6%          | 3.6%         | 395                | 1.4           | £317         |
 
 
 Key findings
